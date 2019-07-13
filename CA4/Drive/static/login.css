@@ -1,0 +1,48 @@
+body {
+  background-image: url('/datacent.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+  font-family: 'Major Mono Display', monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+h1 {
+  color : tomato;
+}
+
+.main {
+
+  position: relative;
+  margin-top: 75px;
+  padding: 20px;
+  background: #00686399;
+  text-align: center;
+  border-radius: 2px;
+  height: 340px;
+  width: 300px;
+  opacity: 0%;
+}
+
+inputs {
+    width: 150px;
+}
+
+#username_input {
+
+  margin:  20px;
+}
+
+#password_input {
+
+  margin: 20px;
+}
+
+#p1 {
+  color: tomato;
+  font-size: 15px;
+  text-align: relative;
+  font-weight: bold;
+}

@@ -1,0 +1,35 @@
+<!Doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=divice-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href = "/signupcss">
+  <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display" rel="stylesheet">
+  <title>Upload</title>
+
+<head>
+
+<body>
+
+  <div class = "main">
+    <h1> File Upload </h1>
+    <p id = "p1"> Please choose the file you want to upload </p>
+      <div class = "inputs">
+        <form action="/upload" method="post" enctype="multipart/form-data">
+          <input name="file_name" type="text" placeholder="File Name" />
+        </br>
+        </br>
+          <input type="file" name="file">
+          </br>
+          </br>
+          <button style =" border-radius: 20px;font-size: 30px; background-color : blue; border : none; color:white" type="submit">Upload</button>
+        </form>
+    </div>
+
+  </body>
+
+</head>
+
+</html>

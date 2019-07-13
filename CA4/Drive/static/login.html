@@ -1,0 +1,36 @@
+<!Doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=divice-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href = "/logincss">
+  <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display" rel="stylesheet">
+  <title>LOGIN</title>
+
+</head>
+
+<body>
+
+  <div class = "main">
+    <h1> LOGIN </h1>
+    <p id = "p1"> Please enter your Drive username and password </p>
+    <form id = "form" action = "/login" method = "POST">
+      <div class = "inputs">
+        <input id = "username_input" name = "username" type = "text" placeholder="Username" required>
+      </div>
+
+      <div class = "inputs">
+        <input id = "password_input" name = "password" type = "password" placeholder="Password" required/>
+      </div>
+
+      <div class="btn">
+          <input id="login_button" type="submit" value="LOGIN">
+      </div>
+
+    </form>
+
+  </body>
+  
+</html>
