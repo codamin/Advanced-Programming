@@ -1,0 +1,2 @@
+Create_room room1 -Mafia 1 -Villager 2 -RouinTan 2
+Join p1 p2 p3

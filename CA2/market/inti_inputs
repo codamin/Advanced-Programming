@@ -1,0 +1,48 @@
+add_user amin asadi utamin 09147296831 50000 buyer
+add_user hosein asadi dad 09143416831 5000 seller
+add_user ali zakeri zack 09141405665 5000 seller
+add_user p1 asadi one 09142544724 50000 buyer
+add_user p2 asadi two 09142544724 60000 buyer
+add_user p3 asadi three 09142544724 70000 buyer
+add_user p4 asadi four 09142544724 8000 buyer
+add_user p5 asadi five 09142544724 9000 buyer
+add_user p6 asadi six 09142544724 10000 buyer
+add_user p7 asadi seven 09142544724 200000 buyer
+add_user p8 asadi a 09142544724 3000 buyer
+add_user p8 asadi b 09142544724 3000 buyer
+add_user p8 asadi c 09142544724 3000 buyer
+add_user p8 asadi d 09142544724 3000 buyer
+add_user p8 asadi f 09142544724 3000 buyer
+add_user p8 asadi g 09142544724 3000 buyer
+add_user p8 asadi h 09142544724 3000 buyer
+add_user p9 asadi nine 09142544724 5000 buyer
+add_user p10 asadi ten 09142544724 8000 buyer
+add_good utamin watch 3000 5
+add_good dad mobile 7000 5
+add_good zack watch 12000 5
+add_good dad car 10000 5
+sale one car dad
+sale tow car dad
+sale three car dad
+sale four car dad
+sale five car dad
+sale six car dad
+sale seven car dad
+sale eight car dad
+sale nine car dad
+sale elev car dad
+sale twel car dad
+sale thir car dad
+sale four car dad
+sale a car dad
+sale b car dad
+sale c car dad
+sale d car dad
+sale f car dad
+sale g car dad
+sale h car dad
+search car 2
+request first_req utamin car 2 dad,
+mobile 3 dad,
+watch 5 zack;
+
