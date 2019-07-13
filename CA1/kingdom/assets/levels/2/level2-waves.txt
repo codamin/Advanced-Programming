@@ -1,0 +1,27 @@
+480,393,305,505,408,479,379,592
+278,278,278,425,425,559,559,612
+500,504,233,233,188,246,606,608,313,269,347,525,530,542
+005,189,205,224,275,359,371,468,504,595,637,646,670,720
+./assets/levels/2/level2-map.png
+front
+
+wave 1:
+00:05, 4 x wolf
+
+wave 2:
+00:25, 4 x wolf
+00:30, 5 x wolf
+
+wave 3:
+00:50, 1 x demon
+
+wave 4: 
+1:10, 1 x demon , 2 x wolf
+1:14, 1 x demon
+1:18, 4 x wolf
+
+wave 5:
+1:38, 5 x orc , 1 x demon
+1:42, 1 x armored , 1 x demon
+1:50, 6 x wolf
+1:52, 4 x orc , 1 x demon , 1 x armored
